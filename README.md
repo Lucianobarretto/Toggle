@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200px" src="DOM1.png" />  
+  <img width="200px" src="./public/readmeContent/DOM1.png" />  
 </p>
 
 <h1 align="center">
@@ -13,25 +13,25 @@
 <br>
 
 <p align="center">
-  <kbd><img align="center" src="DOM.png" alt="Document Object Model" width="500"/></kbd>
+  <kbd><img align="center" src="./public/readmeContent/DOM.png" alt="Document Object Model" width="500"/></kbd>
 </p>
 
 <br>
 
 <p align="center">
-  <kbd><img align="center" src="LightDarkMode.gif" alt="Toggle" width="400"</kbd>
-</p>
-
-<br>
-  
-<p align="center">
-  <kbd><img align="center" src="LightMode.png" alt="Light Mode" width="900"</kbd>
+  <kbd><img align="center" src="./public/readmeContent/LightDarkMode.gif" alt="Toggle" width="400"</kbd>
 </p>
 
 <br>
   
 <p align="center">
-  <kbd><img align="center" src="DarkMode.png" alt="Dark Mode" width="900"</kbd>
+  <kbd><img align="center" src="./public/readmeContent/LightMode.png" alt="Light Mode" width="900"</kbd>
+</p>
+
+<br>
+  
+<p align="center">
+  <kbd><img align="center" src="./public/readmeContent/DarkMode.png" alt="Dark Mode" width="900"</kbd>
 </p>
 
 <br>
@@ -50,7 +50,7 @@
 ---
 
 <p align="center">
-  <img align="center" src="Logo.png" alt="Logo Luciano Barreto" width="350"/>
+  <img align="center" src="./public/readmeContent/Logo.png" alt="Logo Luciano Barreto" width="350"/>
 </p>
 
 <p align="center">  
